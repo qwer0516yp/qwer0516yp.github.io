@@ -2,7 +2,7 @@
 layout: post
 title: Hello HomeLab
 date: 2023-07-06 22:00:00 +1000
-categories: [homelab]
+categories: [homelab,test]
 tags: [profile,test,jekyll,github]     # TAG names should always be lowercase
 ---
 
