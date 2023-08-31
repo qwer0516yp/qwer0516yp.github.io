@@ -28,7 +28,7 @@ As an open-source initiative, the Modernization Showcase project will foster col
 By successfully migrating our core C# and Python projects to cloud services, we intend to demonstrate how embracing modern technologies can lead to tangible business improvements. These enhancements could encompass increased agility, faster time-to-market, and improved customer experiences, thereby driving our company's growth and competitiveness.
 
 # Library Dependencies:
-One of the golden rule in software development is _*DO NOT REIVENT THE WHEEL*_. In this project, I will pick a few popular libraries, best visualized from below: https://github.com/MoienTajik/AspNetCore-Developer-Roadmap. 
+One of the golden rule in software development is _*DO NOT REIVENT THE WHEEL*_. In this project, I will pick a few popular libraries, best visualized from below link: [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap). Credit the author with a github star if you like it as well.
 
 ## Dotnet Developer Roadmap
 ![img-description](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap/blob/master/aspnetcore-developer-roadmap.png?raw=true)
